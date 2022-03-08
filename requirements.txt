@@ -1,0 +1,12 @@
+# Data processing for X2S-M/X2S-MA
+datasets~=1.12.1
+spacy-udpipe==1.0.0
+jieba==0.42.1
+icu-tokenizer==0.0.1
+fugashi==1.1.1
+
+# Continued pre-training
+transformers==4.8.2
+dataclasses~=0.6
+gensim~=4.0.0
+torch~=1.9
