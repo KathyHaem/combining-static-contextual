@@ -1,4 +1,4 @@
-This repository contains the code and embeddings from our Findings of ACL 2022 publication "Combining static and contextual representations". (TODO link)
+This repository contains the code and embeddings from our Findings of ACL 2022 publication "[Combining static and contextual representations](https://arxiv.org/abs/2203.09326)". <!--TODO update after proceedings released!-->
 It includes:
 
 1. `bash-scripts` with the calling parameters for the continued pre-training.
@@ -30,5 +30,13 @@ tar -xzf X2S_MA.tgz
 If you find our code or resources helpful, please cite our paper:
 
 ```
-TODO
+@misc{hmmerl2022combining,
+    title={Combining Static and Contextualised Multilingual Embeddings},
+    author={Katharina Hämmerl and Jindřich Libovický and Alexander Fraser},
+    year={2022},
+    eprint={2203.09326},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 ```
+<!-- TODO: update when proceedings are released!-->
