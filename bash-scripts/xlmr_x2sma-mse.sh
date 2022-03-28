@@ -11,7 +11,7 @@ export TOKENIZERS_PARALLELISM=false
 
 source ${TRAINENV}/bin/activate
 
-python3 ../cont-pretraining/run_intermediate_training.py \
+python3 ../run_continued_pretraining.py \
   --model_name_or_path "xlm-roberta-base" \
   --train_data_files "/path/to/train-data/wiki_txt_40/??.txt" \
   --eval_data_file "/path/to/train-data/validation.txt" \
