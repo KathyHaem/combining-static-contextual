@@ -8,6 +8,7 @@ It includes:
 # Installation
 
 The `requirements.txt` file lists the top-level dependencies you need to install to use each part of the project.
+You may want to use separate Python environments for the two parts.
 
 # Usage
 
