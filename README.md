@@ -30,7 +30,7 @@ tar -xzf X2S_MA.tgz
 If you find our code or resources helpful, please cite our paper:
 
 ```
-@misc{hmmerl2022combining,
+@misc{haemmerl-etal-2022-combining,
     title={Combining Static and Contextualised Multilingual Embeddings},
     author={Katharina Hämmerl and Jindřich Libovický and Alexander Fraser},
     year={2022},
